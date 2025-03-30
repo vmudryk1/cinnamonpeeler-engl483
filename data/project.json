@@ -16,12 +16,20 @@
     "authors": "",
     "media_player": "avannotate",
     "auto_populate_home_page": true,
-    "additional_users": [],
+    "additional_users": [
+      {
+        "login_name": "saamturner",
+        "avatar_url": "https://avatars.githubusercontent.com/u/157153031?v=4",
+        "admin": false
+      }
+    ],
     "tags": {
       "tagGroups": [],
       "tags": []
     },
     "created_at": "2025-03-30T05:10:57.342Z",
-    "updated_at": "2025-03-30T05:10:57.342Z"
-  }
+    "updated_at": "2025-03-30T05:13:12.479Z",
+    "generate_pages_site": true
+  },
+  "is_private": false
 }
