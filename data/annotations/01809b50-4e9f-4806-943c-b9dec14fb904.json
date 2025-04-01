@@ -1,5 +1,1148 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"The Cinnamon Peeler.\" Emphasizes the word \"cinnamon,\" and says it quicker."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "tag": "Timbre",
+          "category": "Performance"
+        },
+        {
+          "tag": "Duration",
+          "category": "Performance"
+        }
+      ],
+      "uuid": "8f4d0287-958b-426d-8e6c-82c7626594a7"
+    },
+    {
+      "start_time": 3,
+      "end_time": 6,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"If I were a cinnamon peeler / I would ride your bed\" Emphasis on \"ride\" and \"bed\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "tag": "Timbre",
+          "category": "Performance"
+        }
+      ],
+      "uuid": "ea244821-17d2-43c0-9dac-1ea0acc2c164"
+    },
+    {
+      "start_time": 7,
+      "end_time": 9,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"and leave the yellow bark dust / on your pillow.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        }
+      ],
+      "uuid": "b9e75cca-ab5d-49f8-80d4-ea1422e3fbcd"
+    },
+    {
+      "start_time": 10,
+      "end_time": 11,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pause"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Caesura",
+          "category": "Form"
+        }
+      ],
+      "uuid": "1c8d87c7-9d31-4c9d-99b7-160ce8c994f4"
+    },
+    {
+      "start_time": 11,
+      "end_time": 14,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Your breasts and shoulders would reek\" Emphasis on \"breasts,\" \"shoulders,\" and \"reek.\" Says the word \"reek\" a bit louder with a harsher sharpness to it, especially the \"k\" sound at the end of reek."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "tag": "Timbre",
+          "category": "Performance"
+        },
+        {
+          "tag": "Pitch",
+          "category": "Performance"
+        }
+      ],
+      "uuid": "7d2fbc0b-56fa-40fb-b0c0-6816eaed4f98"
+    },
+    {
+      "start_time": 14,
+      "end_time": 14,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pause"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Caesura",
+          "category": "Form"
+        }
+      ],
+      "uuid": "4210dc98-6a59-4314-b5be-f89da3b3c73f"
+    },
+    {
+      "start_time": 15,
+      "end_time": 20,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"you could never walk through markets / without the profession of my fingers / floating over you.\" Prolonged s sounds"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "tag": "Timbre",
+          "category": "Performance"
+        },
+        {
+          "tag": "Duration",
+          "category": "Performance"
+        }
+      ],
+      "uuid": "64b38f75-8c2b-42db-94dc-8be62f7d42ad"
+    },
+    {
+      "start_time": 21,
+      "end_time": 21,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pause"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Caesura",
+          "category": "Form"
+        }
+      ],
+      "uuid": "0ca00fa1-1571-47ec-b436-53354d418710"
+    },
+    {
+      "start_time": 22,
+      "end_time": 24,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"The blind would / stumble certain of whom they approached\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        }
+      ],
+      "uuid": "1fddab63-1733-4978-86aa-fb9d046379b1"
+    },
+    {
+      "start_time": 25,
+      "end_time": 25,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pause"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Caesura",
+          "category": "Form"
+        }
+      ],
+      "uuid": "afe65218-a5f5-40e8-bacd-078d46440e76"
+    },
+    {
+      "start_time": 26,
+      "end_time": 29,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"though you might bathe / under rain gutters, monsoon.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        }
+      ],
+      "uuid": "c2ea8597-8930-4a91-94a4-c120a9abd530"
+    },
+    {
+      "start_time": 30,
+      "end_time": 30,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pause"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Caesura",
+          "category": "Form"
+        }
+      ],
+      "uuid": "e9d57b5b-a09d-4eb8-bd16-c0b101baaa93"
+    },
+    {
+      "start_time": 31,
+      "end_time": 36,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Here on the upper thigh / at this smooth pasture / neighbour to your hair\" Emphasizes the words \"thigh\" and \"hair,\" drawing out the length of their pronunciation."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "tag": "Timbre",
+          "category": "Performance"
+        },
+        {
+          "tag": "Duration",
+          "category": "Performance"
+        }
+      ],
+      "uuid": "fe5757d3-abf7-4a1e-a29f-1070f1b800f4"
+    },
+    {
+      "start_time": 36,
+      "end_time": 37,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pause"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Caesura",
+          "category": "Form"
+        }
+      ],
+      "uuid": "ddaf03ee-7e79-465b-ada6-537b8d76ad79"
+    },
+    {
+      "start_time": 37,
+      "end_time": 40,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"or the crease / that cuts your back. / This ankle.\" Prolonged \"s\" sounds again. The k in back is said in a sharper more commanding way."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "tag": "Timbre",
+          "category": "Performance"
+        },
+        {
+          "tag": "Duration",
+          "category": "Performance"
+        }
+      ],
+      "uuid": "eeab261a-fc1e-4680-8076-a2da33bfff5b"
+    },
+    {
+      "start_time": 40,
+      "end_time": 40,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pause"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Caesura",
+          "category": "Form"
+        }
+      ],
+      "uuid": "a482784d-c9d3-495c-90f7-b40e2a116961"
+    },
+    {
+      "start_time": 41,
+      "end_time": 45,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"You will be known among strangers / as the cinnamon peeler's wife.\" Emphasizes the \"f\" in wife, with a drop in pitch."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "tag": "Timbre",
+          "category": "Performance"
+        },
+        {
+          "tag": "Pitch",
+          "category": "Performance"
+        }
+      ],
+      "uuid": "172a7a3c-9f5c-49f8-b9f2-f30c4171ccc8"
+    },
+    {
+      "start_time": 46,
+      "end_time": 47,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Longer Pause. It's almost like break in the narrative."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Caesura",
+          "category": "Form"
+        }
+      ],
+      "uuid": "1c450394-76f3-460c-8b13-19cc21c269fb"
+    },
+    {
+      "start_time": 47,
+      "end_time": 63,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A slight increase in the speed of how these lines are performed."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Tempo",
+          "category": "Performance"
+        }
+      ],
+      "uuid": "c4628982-d059-4701-9735-e3f43a2ab0ad"
+    },
+    {
+      "start_time": 47,
+      "end_time": 55,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"I could hardly glance at you / before marriage / never touch you / - your keen nosed mother, your rough brothers.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        }
+      ],
+      "uuid": "bc91b7bb-5309-43b9-b7f9-79be352b81f8"
+    },
+    {
+      "start_time": 55,
+      "end_time": 55,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pause"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Caesura",
+          "category": "Form"
+        }
+      ],
+      "uuid": "d7b2db3f-4e3a-4c5d-a9dd-c422509408d4"
+    },
+    {
+      "start_time": 56,
+      "end_time": 58,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"I buried my hands / in saffron,\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        }
+      ],
+      "uuid": "d9f122bf-3c56-482e-9b13-14871023df8c"
+    },
+    {
+      "start_time": 58,
+      "end_time": 58,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Slight breath between \"saffron\" and \"disguised\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Ambient Noise",
+          "category": "Extra-Poetic Sounds"
+        }
+      ],
+      "uuid": "7bdfb747-22f1-4504-b002-183daeb8ceb2"
+    },
+    {
+      "start_time": 59,
+      "end_time": 63,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"disguised them / over smoking tar, / helped the honey gatherers …\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        }
+      ],
+      "uuid": "01615eac-815f-4303-a2ef-c42959af06b9"
+    },
+    {
+      "start_time": 64,
+      "end_time": 65,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pause"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Caesura",
+          "category": "Form"
+        }
+      ],
+      "uuid": "ee97d9e7-6226-44aa-a08f-ebc7c3779149"
+    },
+    {
+      "start_time": 65,
+      "end_time": 72,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"When we swam once / I touched you in water / and our bodies remained free, / you could hold me and be blind of smell.\" An increase in the speed of how these lines are performed."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "tag": "Tempo",
+          "category": "Performance"
+        }
+      ],
+      "uuid": "4a13720e-99ed-45ef-80a0-c942b4931936"
+    },
+    {
+      "start_time": 73,
+      "end_time": 73,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pause"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Caesura",
+          "category": "Form"
+        }
+      ],
+      "uuid": "86344e94-377f-48b5-8e54-47ed5879ad02"
+    },
+    {
+      "start_time": 74,
+      "end_time": 75,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"You climbed the bank and said\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        }
+      ],
+      "uuid": "1be1e0d8-4fa0-4da9-9bc7-317427e6e58b"
+    },
+    {
+      "start_time": 75,
+      "end_time": 75,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Slight breath between \"said\" and \"this\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Ambient Noise",
+          "category": "Extra-Poetic Sounds"
+        }
+      ],
+      "uuid": "c9444ed6-2c57-45bf-ab73-ca3dd7cdbc01"
+    },
+    {
+      "start_time": 75,
+      "end_time": 81,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"this is how you touch other women / the grass cutter's wife, the lime burner's daughter.\" Voice caught a bit when saying \"other.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "tag": "Timbre",
+          "category": "Performance"
+        }
+      ],
+      "uuid": "ea9073ec-601f-444e-9a83-d4cdb542c293"
+    },
+    {
+      "start_time": 81,
+      "end_time": 82,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pause"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Caesura",
+          "category": "Form"
+        }
+      ],
+      "uuid": "41557272-5f81-473d-866a-ce05cceaf15a"
+    },
+    {
+      "start_time": 82,
+      "end_time": 85,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"And you searched your arms / for the missing perfume\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        }
+      ],
+      "uuid": "6190c8fe-e372-46bb-9e86-268ef2a9469c"
+    },
+    {
+      "start_time": 85,
+      "end_time": 86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pause"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Caesura",
+          "category": "Form"
+        }
+      ],
+      "uuid": "4a4a9b04-dc51-44d3-864a-bdae4b7790d3"
+    },
+    {
+      "start_time": 86,
+      "end_time": 87,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"and knew\" Emphasis on \"knew,\" and draws out the pronunciation of it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "tag": "Timbre",
+          "category": "Performance"
+        },
+        {
+          "tag": "Duration",
+          "category": "Performance"
+        },
+        {
+          "tag": "Pitch",
+          "category": "Performance"
+        }
+      ],
+      "uuid": "3ce939b1-58bc-4051-a6dd-65d6d35f77a3"
+    },
+    {
+      "start_time": 87,
+      "end_time": 88,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pause"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Caesura",
+          "category": "Form"
+        }
+      ],
+      "uuid": "4ff5fff3-163d-4873-b65a-0b497785a9aa"
+    },
+    {
+      "start_time": 88,
+      "end_time": 89,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"what good is it\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        }
+      ],
+      "uuid": "ef09665d-9f2b-430e-b59d-5d7e714cbf8b"
+    },
+    {
+      "start_time": 89,
+      "end_time": 89,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pause"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Caesura",
+          "category": "Form"
+        }
+      ],
+      "uuid": "b52b5749-711d-4e6b-92d3-523cb327721b"
+    },
+    {
+      "start_time": 90,
+      "end_time": 91,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"to be the lime burner's daughter\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        }
+      ],
+      "uuid": "f107f770-23c1-4b57-b0f6-9cd8a9bff14a"
+    },
+    {
+      "start_time": 92,
+      "end_time": 92,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pause"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Caesura",
+          "category": "Form"
+        }
+      ],
+      "uuid": "f1be0a9a-2a13-4c53-9065-09e2fffd9626"
+    },
+    {
+      "start_time": 93,
+      "end_time": 94,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"left with no trace\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        }
+      ],
+      "uuid": "9bb449f7-219f-41a3-929a-12f01a911687"
+    },
+    {
+      "start_time": 94,
+      "end_time": 95,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pause"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Caesura",
+          "category": "Form"
+        }
+      ],
+      "uuid": "2966896c-2154-4995-9242-1f877a3ae290"
+    },
+    {
+      "start_time": 95,
+      "end_time": 98,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"as if not spoken to in the act of love\" Love is spoken as though it has an f sound in it, similar to the pronunciation of wife."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "tag": "Timbre",
+          "category": "Performance"
+        }
+      ],
+      "uuid": "26d75333-ab39-4b63-8b1c-cd203cb7f3cc"
+    },
+    {
+      "start_time": 98,
+      "end_time": 98,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pause"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Caesura",
+          "category": "Form"
+        }
+      ],
+      "uuid": "91750948-a3f1-489f-a3ce-47c93ee3d102"
+    },
+    {
+      "start_time": 99,
+      "end_time": 102,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"as if wounded without the pleasure of a scar.\" Draws out saying the word \"scar.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "tag": "Duration",
+          "category": "Performance"
+        }
+      ],
+      "uuid": "cc3c4e96-8335-45b7-bdc3-a439b183cb6d"
+    },
+    {
+      "start_time": 102,
+      "end_time": 104,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pause"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Caesura",
+          "category": "Form"
+        }
+      ],
+      "uuid": "052d356f-6b14-494b-98af-adcd1c7fe875"
+    },
+    {
+      "start_time": 105,
+      "end_time": 106,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"You touched / your belly to my hands\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        }
+      ],
+      "uuid": "e673553e-0cfb-4091-9a13-f4c0337c949f"
+    },
+    {
+      "start_time": 107,
+      "end_time": 107,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pause"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Caesura",
+          "category": "Form"
+        }
+      ],
+      "uuid": "d8cf179c-023c-46d4-8872-aca96906877b"
+    },
+    {
+      "start_time": 108,
+      "end_time": 112,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"in the dry air and said / I am the cinnamon / peeler's wife.\" Emphasizes the \"f\" in wife, with a drop in pitch."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "tag": "Timbre",
+          "category": "Performance"
+        },
+        {
+          "tag": "Pitch",
+          "category": "Performance"
+        }
+      ],
+      "uuid": "659724c7-262d-4d8e-b1b3-ae77eb250dde"
+    },
+    {
+      "start_time": 112,
+      "end_time": 112,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pause"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Caesura",
+          "category": "Form"
+        }
+      ],
+      "uuid": "3f457e8e-4f0c-454f-96b8-685c7d52e57e"
+    },
+    {
+      "start_time": 113,
+      "end_time": 113,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Smell me.\" Spoken with a different tone than the rest of the poem."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "tag": "Timbre",
+          "category": "Performance"
+        }
+      ],
+      "uuid": "a049b18d-ffcb-4e6f-91a8-ca4bcda7e9c1"
+    }
+  ],
   "set": "Default",
   "event_id": "6d5a30df-b992-40b0-8e8a-e436445381b0",
   "source_id": "28eb73aa-57f6-4532-8dee-e76019863049"
