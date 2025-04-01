@@ -438,7 +438,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"I could hardly glance at you / before marriage / never touch you / - your keen nosed mother, your rough brothers.\""
+              "text": "\"I could hardly glance at you / before marriage / never touch you / - your keen nosed mother, your rough brothers.\" Slight increase in tempo."
             }
           ]
         }
@@ -447,6 +447,10 @@
         {
           "tag": "Transcription",
           "category": "Background"
+        },
+        {
+          "tag": "Tempo",
+          "category": "Performance"
         }
       ],
       "uuid": "bc91b7bb-5309-43b9-b7f9-79be352b81f8"
