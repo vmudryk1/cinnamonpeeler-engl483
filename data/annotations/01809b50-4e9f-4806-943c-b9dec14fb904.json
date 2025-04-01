@@ -432,27 +432,6 @@
     },
     {
       "start_time": 47,
-      "end_time": 63,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "A slight increase in the speed of how these lines are performed."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Tempo",
-          "category": "Performance"
-        }
-      ],
-      "uuid": "c4628982-d059-4701-9735-e3f43a2ab0ad"
-    },
-    {
-      "start_time": 47,
       "end_time": 55,
       "annotation": [
         {
