@@ -530,7 +530,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"disguised them / over smoking tar, / helped the honey gatherers …\""
+              "text": "\"disguised them / over smoking tar, / helped the honey gatherers …\" Slight increase in tempo."
             }
           ]
         }
@@ -539,6 +539,10 @@
         {
           "tag": "Transcription",
           "category": "Background"
+        },
+        {
+          "tag": "Tempo",
+          "category": "Performance"
         }
       ],
       "uuid": "01615eac-815f-4303-a2ef-c42959af06b9"
