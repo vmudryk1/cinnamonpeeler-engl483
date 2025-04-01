@@ -484,7 +484,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"I buried my hands / in saffron,\""
+              "text": "\"I buried my hands / in saffron,\" Slight increase in tempo."
             }
           ]
         }
@@ -493,6 +493,10 @@
         {
           "tag": "Transcription",
           "category": "Background"
+        },
+        {
+          "tag": "Tempo",
+          "category": "Performance"
         }
       ],
       "uuid": "d9f122bf-3c56-482e-9b13-14871023df8c"
