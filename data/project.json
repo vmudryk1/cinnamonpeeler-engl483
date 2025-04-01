@@ -8,8 +8,8 @@
   "project": {
     "github_org": "vmudryk1",
     "is_private": false,
-    "title": "\"The Cinnamon Peeler\" Annotation",
-    "description": "ENGL 483 Annotations",
+    "title": "Michael Ondaatje's \"The Cinnamon Peeler\"",
+    "description": "Annotations of the poem \"The Cinnamon Peeler\" for the English 483 final project. The poem is performed by Michael Ondaatje, the author.",
     "language": "en",
     "slug": "cinnamonpeeler-engl483",
     "creator": "vmudryk1",
@@ -108,7 +108,7 @@
       ]
     },
     "created_at": "2025-03-30T05:10:57.342Z",
-    "updated_at": "2025-04-01T04:50:55.127Z",
+    "updated_at": "2025-04-01T05:14:46.742Z",
     "generate_pages_site": true
   },
   "is_private": false
