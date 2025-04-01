@@ -16,19 +16,99 @@
     "authors": "",
     "media_player": "avannotate",
     "auto_populate_home_page": true,
-    "additional_users": [
-      {
-        "login_name": "saamturner",
-        "avatar_url": "https://avatars.githubusercontent.com/u/157153031?v=4",
-        "admin": false
-      }
-    ],
+    "additional_users": [],
     "tags": {
-      "tagGroups": [],
-      "tags": []
+      "tagGroups": [
+        {
+          "category": "Background",
+          "color": "#ADFFD9"
+        },
+        {
+          "category": "Form",
+          "color": "#ADFEFF"
+        },
+        {
+          "category": "Performance",
+          "color": "#99E6FF"
+        },
+        {
+          "category": "Extra-Poetic Sounds",
+          "color": "#88C9F2"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "tag": "Context",
+          "category": "Background"
+        },
+        {
+          "tag": "Identification",
+          "category": "Background"
+        },
+        {
+          "tag": "Definition",
+          "category": "Background"
+        },
+        {
+          "tag": "Caesura",
+          "category": "Form"
+        },
+        {
+          "tag": "Rhyme",
+          "category": "Form"
+        },
+        {
+          "tag": "Meter",
+          "category": "Form"
+        },
+        {
+          "tag": "Verse Structure",
+          "category": "Form"
+        },
+        {
+          "tag": "Tempo",
+          "category": "Performance"
+        },
+        {
+          "tag": "Pitch",
+          "category": "Performance"
+        },
+        {
+          "tag": "Duration",
+          "category": "Performance"
+        },
+        {
+          "tag": "Amplitude",
+          "category": "Performance"
+        },
+        {
+          "tag": "Timbre",
+          "category": "Performance"
+        },
+        {
+          "tag": "Technical Sounds",
+          "category": "Extra-Poetic Sounds"
+        },
+        {
+          "tag": "Speech",
+          "category": "Extra-Poetic Sounds"
+        },
+        {
+          "tag": "Ambient Noise",
+          "category": "Extra-Poetic Sounds"
+        },
+        {
+          "tag": "Audience Sounds",
+          "category": "Extra-Poetic Sounds"
+        }
+      ]
     },
     "created_at": "2025-03-30T05:10:57.342Z",
-    "updated_at": "2025-03-30T23:15:21.991Z",
+    "updated_at": "2025-04-01T00:27:30.767Z",
     "generate_pages_site": true
   },
   "is_private": false
