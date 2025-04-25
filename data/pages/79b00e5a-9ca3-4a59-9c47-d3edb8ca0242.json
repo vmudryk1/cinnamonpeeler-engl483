@@ -1,15 +1,1 @@
-{
-  "content": [],
-  "created_at": "2025-03-30T23:15:21.974Z",
-  "created_by": "vmudryk1",
-  "title": "The Cinnamon Peeler",
-  "slug": "the-cinnamon-peeler",
-  "updated_at": "2025-03-30T23:15:21.974Z",
-  "updated_by": "vmudryk1",
-  "parent": "462df694-03f0-4604-a003-b79cf8c9a599",
-  "autogenerate": {
-    "enabled": true,
-    "type": "event",
-    "type_id": "6d5a30df-b992-40b0-8e8a-e436445381b0"
-  }
-}
+{"content":[],"created_at":"2025-03-30T23:15:21.974Z","created_by":"vmudryk1","title":"The Cinnamon Peeler","slug":"the-cinnamon-peeler","updated_at":"2025-03-30T23:15:21.974Z","updated_by":"vmudryk1","parent":"65af4981-1594-49ed-87ca-8f14dc7c5641","autogenerate":{"enabled":true,"type":"event","type_id":"6d5a30df-b992-40b0-8e8a-e436445381b0"}}
